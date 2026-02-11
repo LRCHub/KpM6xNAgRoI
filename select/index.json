@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サムライハート(Some Like It Hot!!)VideoAudio",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-11T19:36:08.972744Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_サムライハート(Some_Like_It_Hot!!)_SPYAIR.txt"
+    }
+  ]
+}
