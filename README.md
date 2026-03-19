@@ -1,4 +1,4 @@
-# SPYAIR – サムライハート(Some Like It Hot!!) - New Version -VideoAudio
+# SPYAIR – サムライハート(Some Like It Hot!!)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
