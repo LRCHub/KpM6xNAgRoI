@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "サムライハート(Some Like It Hot!!) - New Version -VideoAudio",
+  "base_track": "サムライハート(Some Like It Hot!!)",
   "base_artist": "SPYAIR",
-  "createdAt": "2026-02-18T17:21:43.495014Z",
+  "createdAt": "2026-03-19T15:00:02.707141Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -119,18 +119,18 @@
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "サムライハート (Some Like It Hot!!)",
+      "title": "サムライハート Some Like It Hot!!",
       "artist": "SPYAIR",
       "has_synced": true,
-      "path": "select/15_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+      "path": "select/15_サムライハート_Some_Like_It_Hot!!_SPYAIR.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "サムライハート(Some Like It Hot!!)",
-      "artist": "Afterglow",
+      "title": "サムライハート (Some Like It Hot!!)",
+      "artist": "SPYAIR",
       "has_synced": true,
-      "path": "select/16_サムライハート(Some_Like_It_Hot!!)_Afterglow.lrc"
+      "path": "select/16_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -139,6 +139,15 @@
       "artist": "SPYAIR",
       "has_synced": false,
       "path": "select/pl_01_サムライハート(Some_Like_It_Hot!!)_SPYAIR.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サムライハート(Some Like It Hot!!)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/localdb_01_サムライハート(Some_Like_It_Hot!!)_SPYAIR.lrc",
+      "repo_name": "KpM6xNAgRoI"
     }
   ]
 }
