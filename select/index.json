@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "サムライハート(Some Like It Hot!!)",
   "base_artist": "SPYAIR",
-  "createdAt": "2026-03-30T09:16:21.080818Z",
+  "createdAt": "2026-04-04T18:56:28.229431Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -127,10 +127,10 @@
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "サムライハート (Some Like It Hot!!)",
-      "artist": "SPYAIR",
+      "title": "サムライハート(Some Like It Hot!!) feat. 未来",
+      "artist": "コバソロ",
       "has_synced": true,
-      "path": "select/16_サムライハート_(Some_Like_It_Hot!!)_SPYAIR.lrc"
+      "path": "select/16_サムライハート(Some_Like_It_Hot!!)_feat._未来_コバソロ.lrc"
     },
     {
       "id": "petitlyrics_1",
